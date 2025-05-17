@@ -1,0 +1,13 @@
+name = "PyModelExplorer"
+uuid = "1f255562-6a59-456d-8803-2f2891bcfa68"
+authors = ["Avik Pal <avikpal@mit.edu> and contributors"]
+version = "1.0.0"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
