@@ -1,0 +1,2 @@
+[pip.deps]
+ai-edge-model-explorer = ">=0.1.18"
